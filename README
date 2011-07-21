@@ -1,0 +1,9 @@
+Fit an affine transformation to given points.
+
+From Jarno Elonen, http://elonen.iki.fi/code/misc-notes/affine-fit/
+
+Description from webpage:
+
+"The following Python function finds, by least squares fitting, an affine transformation that (approximately) transforms given set of points/vertices/vectors (from_pts) to another (to_pts). It works with arbitrary dimensional points and requires at least dim points, when your points are dim-dimensional."
+
+For discussion of use to merge two exercise files, see http://support.strava.com/discussions/suggestions/420-ability-to-merge-gps-capture-with-iphone-captured-ride
